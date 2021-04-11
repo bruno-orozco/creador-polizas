@@ -1,0 +1,12 @@
+1. En la carpeta 'Input' debes colocar dos archivos en formato csv.
+
+El primero, cotendrá la información de las compras con la información de transacción del método de pago.
+Por defecto, la nombraremos 'pago'
+
+El segundo, contendrá la información acerca del local y la fecha en la que se hizo la compra del producto.
+
+2. Se debe ejecutar el archivo "Abre este archivo.bat"
+
+Ingresas primero la palabra ' pago ', y después ' db '.
+
+3. Abre la carpeta Output para obtener los resultados.
